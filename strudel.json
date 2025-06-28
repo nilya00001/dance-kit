@@ -1,0 +1,49 @@
+{
+  "_base": "https://raw.githubusercontent.com/nilya00001/dance-kit/main/",
+  "bd": [
+    "bd/2hollis kick.wav",
+    "bd/Crystal Castles Kick.wav",
+    "bd/Eurodance Kick.wav",
+    "bd/Girls like us kick.wav",
+    "bd/Kesha Kick.wav",
+    "bd/Kick (Good Time).wav",
+    "bd/Kick (Leni).wav",
+    "bd/Kick (Not In Love).wav",
+    "bd/King 80_kick_no humanity.wav",
+    "bd/Main Kick.wav",
+    "bd/damon r kick.wav",
+    "bd/paranoid kick.wav"
+  ],
+  "cp": [
+    "cp/Clap (Empathy).wav",
+    "cp/Clap13.wav"
+  ],
+  "cr": [
+    "cr/2000.wav",
+    "cr/909 Crash.wav",
+    "cr/Dance Crash 1.wav",
+    "cr/Dance Crash 4.wav"
+  ],
+  "hh": [
+    "hh/Crystal Castles HiHat 1.wav",
+    "hh/Crystal Castles HiHat 2.wav"
+  ],
+  "oh": [
+    "oh/CLEAN_HAT_1.wav",
+    "oh/KSHMR_Open_Hat_01_Short.wav",
+    "oh/Open Hat 5.wav"
+  ],
+  "perc": [
+    "perc/VEDH Percussion 013(1).wav",
+    "perc/VEDH Percussion 022.wav",
+    "perc/VEDH Percussion 045.wav",
+    "perc/VEDH Percussion 064(1).wav",
+    "perc/VEDH Percussion 081.wav",
+    "perc/VEDH Percussion 096.wav",
+    "perc/VEDH Percussion 110(1).wav",
+    "perc/VEDH Percussion 123.wav",
+    "perc/VEDH Percussion 138(1).wav",
+    "perc/VEDH Percussion 151.wav",
+    "perc/VEDH Percussion 165(1).wav"
+  ]
+}
